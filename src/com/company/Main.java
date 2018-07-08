@@ -1,5 +1,5 @@
 package com.company;
-
+//import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
@@ -13,41 +13,80 @@ public class Main {
 //            }
 //        }
 
+//        //Mano skaiciu vartymas
+//        for (int i=1; i<=5; i++){
+//            if (i%2 !=0) {
+//                for (int j = 1; j <= 5; j++) {
+//                    System.out.print(i*j);
+//                }
+//            }
+//               else {
+//                for (int j=5; j>=1; j--){
+//                    System.out.print(j*i);
+//                }
+//            }
+//            System.out.println(" ");
+//        }
 
-        //Mano skaiciu vartymas
-        for (int i=1; i<=5; i++){
-            if (i%2 !=0) {
-                for (int j = 1; j <= 5; j++) {
-                    System.out.print(i*j);
-                }
-            }
-               else {
-                for (int j=5; j>=1; j--){
-                    System.out.print(j*i);
-                }
-            }
-            System.out.println(" ");
-        }
+//        //Bandau liekana.
+        int i = 3;
+        System.out.println(i%2);
+//////////////////////////////////////////
+//          //Masyvai
+//          int mas[] = new int [5];
+//            mas[3] = 254;
+//            System.out.println(mas[3]);
+//////////////////////////////////////////
+//          int mas[] = {2,5,415,68,2};
+//            System.out.println(mas[2]);
+//////////////////////////////////////////
+//            int mas[] = new int[5];
+//            for (int index = 0; index<mas.length; index++){
+//                System.out.println(index+" - - "+mas[index]);
+//            }
+//////////////////////////////////////////
+//            //Random
+//            double r = Math.random()*10;
+//            System.out.println(r);
+//////////////////////////////////////////
+//            //Su import random
+//            Random kauliukas = new Random();
+//            int skaicius;
+//            for (int i=0; i<5; i++) {
+//                skaicius = 1 + kauliukas.nextInt(6);
+//                System.out.println(skaicius);
+//            }
+///////////////////////////////////////////////////////////
 
-//        int i = 3;
-//        System.out.println(i%2);
-
-
-
-//        RANDOM
-//        int skSuma = 0;
-//        int masIlgis = (int)(Math.random()*10)+1;
-//        int[] masyvas100sk = new int[masIlgis];
+//            //Namu darbas susikuriu dvimati masyva.
 //
-//        System.out.println("Masyvo ilgis");
-
+//        int randoMasIlgis1 = (int)(Math.random()*20)+1;
+//
+//            System.out.println("random skaicius iki 20 yra -> "+randoMasIlgis1);
+//
+//        int[] masyvas20sk = new int[randoMasIlgis1];
+//
+//            System.out.println("masyvas20sk ilgis yra -> "+masyvas20sk.length);
+//
+//            for (int i=0; i<masyvas20sk.length; i++){
+//                System.out.println("indexsas i yra "+i+" --"+" masyvo reiksmes yra "+masyvas20sk[i]);
+//            }
+//
+///////////////////////////////////////////////////////////
+//        //RANDOM
+//        int skSuma = 0;
+//        int randoMasIlgis = (int)(Math.random()*100)+1;
+//        int[] masyvas100sk = new int[randoMasIlgis];
+//
+//        System.out.println(masyvas100sk.length);
+//
 //        int[]a = new int[10];
 //        System.out.println("masyvo ilgis "+a.length);
 //
 //        double r = Math.random()*10;
 //        int sas = (int) r +1;
 //
-//        System.out.println(a[i]);
+////        System.out.println(a[i]);
 //        System.out.println(sas);
 
 
