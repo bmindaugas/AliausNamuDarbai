@@ -12,7 +12,7 @@ public class Main {
 //                System.out.println(i+" x "+j+" = "+i*j);
 //            }
 //        }
-
+////////////////////////////////////////////////////
 //        //Mano skaiciu vartymas
 //        for (int i=1; i<=5; i++){
 //            if (i%2 !=0) {
@@ -27,10 +27,10 @@ public class Main {
 //            }
 //            System.out.println(" ");
 //        }
-
+//////////////////////////////////////////
 //        //Bandau liekana.
-        int i = 3;
-        System.out.println(i%2);
+//        int i = 3;
+//        System.out.println(i%2);
 //////////////////////////////////////////
 //          //Masyvai
 //          int mas[] = new int [5];
@@ -58,19 +58,42 @@ public class Main {
 //            }
 ///////////////////////////////////////////////////////////
 
-//            //Namu darbas susikuriu dvimati masyva.
-//
-//        int randoMasIlgis1 = (int)(Math.random()*20)+1;
-//
-//            System.out.println("random skaicius iki 20 yra -> "+randoMasIlgis1);
-//
-//        int[] masyvas20sk = new int[randoMasIlgis1];
-//
-//            System.out.println("masyvas20sk ilgis yra -> "+masyvas20sk.length);
-//
-//            for (int i=0; i<masyvas20sk.length; i++){
-//                System.out.println("indexsas i yra "+i+" --"+" masyvo reiksmes yra "+masyvas20sk[i]);
-//            }
+            //Namu darbas susikuriu dvimati masyva.
+
+        int randoMasIlgis1 = (int)(Math.random()*20)+1;
+//        int randoMasIlgis2 = (int)(Math.random()*20)+1;
+
+            System.out.println();
+            System.out.println("stulpelyje yra -> "+randoMasIlgis1+" is 20 galimu");
+            System.out.println("eiluteje yra -> "+randoMasIlgis1+" is 20 galimu");
+
+        int[][] masyvas20sk = new int[randoMasIlgis1][randoMasIlgis1];
+            System.out.println("masyvas20sk ilgis yra -> "+masyvas20sk.length+" is 20 galimu");
+            System.out.println();
+
+        for (int i=0; i<masyvas20sk.length; i++){
+            int sumo = 0;
+                for (int j=0; j<masyvas20sk[i].length; j++) {
+                    masyvas20sk[i][j] = (int)(Math.random()*100)-50;
+
+                    sumo += masyvas20sk[i][j];
+                    //Aido bajeriai.
+            System.out.printf("%4d ",masyvas20sk[i][j]);
+                }
+            System.out.print("suma "+sumo);
+                System.out.println();
+            }
+
+        System.out.println("spauzdinu nuskaityta masyva");
+            for (int e=0; e<masyvas20sk.length; e++){
+                System.out.println(" ");
+                for (int f=0; f<masyvas20sk.length; f++){
+
+                    System.out.print(e+masyvas20sk[e][f]+" ");
+
+                }
+            }
+
 //
 ///////////////////////////////////////////////////////////
 //        //RANDOM
