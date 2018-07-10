@@ -103,12 +103,7 @@ public class Main {
       System.out.print("+++-"+sumos[i]+"-+++");
       System.out.println(Arrays.toString(sumos));
 
-      //Skaiciuoju sumu suma.
-      int viso = 0;
-      for (int g = 0; g<sumos.length; g++){
-        viso += sumos[g];
-      }
-      System.out.println("ggg"+viso+"ggg");
+
 
 
       //Apverciu minusinius masyvus.
@@ -123,7 +118,12 @@ public class Main {
         System.out.println();
       }
     }
-
+//Skaiciuoju sumu suma.
+    int viso = 0;
+    for (int g = 0; g<sumos.length; g++){
+      viso += sumos[g];
+    }
+    System.out.println("ggg"+viso+"ggg");
 //        System.out.println("spauzdinu nuskaityta masyva");
 //            for (int e=0; e<masyvas20sk.length; e++){
 //                System.out.println(" ");
