@@ -13,6 +13,10 @@ public class Keturkampis {
     this.ketvirta = ketvirta;
   }
 
+  public Keturkampis (){
+    this(0, 0, 0, 0);
+  }
+
   public double imtiKeturkampioPerimetra() {
     return pirma + antra + trecia + ketvirta;
   }

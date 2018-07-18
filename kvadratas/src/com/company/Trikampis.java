@@ -11,6 +11,11 @@ private double trecia;
     this.trecia = trecia;
 
   }
+
+  public Trikampis (){
+    this(0, 0, 0);
+  }
+
   public double imtiTrikampioPerimetra(){
     return pirma+antra+trecia;
   }
