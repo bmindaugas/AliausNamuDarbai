@@ -1,11 +1,3 @@
-/**
- * ###Nezinau ka rasyti
- * Bandau komentarus
- *
- */
-
-
-
 package com.company;
 import java.util.Scanner;
 
@@ -23,9 +15,6 @@ public class Main {
     Scanner vardas = new Scanner(in);
     tavoVardas = vardas.nextLine();
 
-    /**
-     * @param vardas yra kazkas
-     */
 
     System.out.println("Labas "+tavoVardas);
     System.out.println("Kiek tau metu? ");

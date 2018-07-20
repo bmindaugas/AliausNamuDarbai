@@ -1,5 +1,14 @@
 package com.company;
 
+/**
+ * i klase adresas rasom
+ * salis
+ * miestas
+ * gatve
+ * namas
+ * @author Mindaugas
+ *
+ */
 public class Adresas {
 
 private String salis;
@@ -7,10 +16,19 @@ private String miestas;
 private String gatve;
 private String namas;
 
-public String getSalis(){
+  /**
+   * metodas gauna sali
+   * @return salis
+   */
+  public String getSalis(){
   return salis;
 }
-public void setSalis(String salis){
+
+  /**
+   * metodas priskirti saliai
+   * @param salis
+   */
+  public void setSalis(String salis){
   this.salis = salis;
 }
 
