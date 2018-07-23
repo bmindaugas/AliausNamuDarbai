@@ -2,68 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47b7d532-536c-4ebd-bbd0-f0d86ca1060e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../path/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FailuSkaitymasRasymas/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LoterijaAtspekSkaiciu/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LoterijaAtspekSkaiciu/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/allclasses-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/allclasses-noframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/com/company/Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/com/company/doc-files/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/com/company/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/com/company/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/com/company/package-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/constant-values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/deprecated-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/element-list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/help-doc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/index-files/index-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/index-files/index-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/external/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-1.10.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-ui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-ui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-ui.structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jquery-ui.structure.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jszip/dist/jszip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/member-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/member-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/overview-tree.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/package-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/package-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/resources/glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/resources/x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/search.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/type-search-index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/doc-files/type-search-index.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SulinysKlases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SulinysKlases/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adresuknygute/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adresuknygute/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adresuknygute/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../adresuknygute/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adresuknygute/src/com/company/Adresas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../adresuknygute/src/com/company/Adresas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../adresuknygute/src/com/company/TelefonuNumeriai.java" beforeDir="false" afterPath="$PROJECT_DIR$/../adresuknygute/src/com/company/TelefonuNumeriai.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,8 +20,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="253">
+              <caret line="73" column="55" lean-forward="true" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,10 +61,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Course" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,11 +84,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../adresuknygute" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -189,62 +131,73 @@
       <option name="presentableId" value="Default" />
       <updated>1531938321204</updated>
     </task>
+    <task id="LOCAL-00001" summary="c">
+      <created>1532080240024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532080240024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3960396" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14977308" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info id="Learn" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32838285" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14026402" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15204236" />
+      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="c" />
+    <option name="LAST_COMMIT_MESSAGE" value="c" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/javadoc/doc-files.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/doc-files/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="72" lean-forward="true" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="882">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/javadoc/doc-files.html" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/doc-files/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="73" column="55" lean-forward="true" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -37,8 +37,8 @@ public class Main {
     int kiekKartu;
     System.out.println("Is kiek kartu galvoji, kad atspesi?");
     kiekKartu = spejimuKiekiui.nextInt();
-    if (kiekKartu < 0 || kiekKartu > 10) {
-      System.out.println(tavoVardas.toUpperCase() + " ZIUREK KA VEDI.");
+    if (kiekKartu < 0 || kiekKartu > 20) {
+      System.out.println(tavoVardas.toUpperCase() + " nu negi tiek kartu speliosi?");
       System.out.println("Gerai bandyk dar karta");
       return;
     } else {
@@ -47,7 +47,7 @@ public class Main {
 
         System.out.println("Gerai spek jau sugalvojau.");
 
-        int r = (int) (Math.random() * 3);
+        int r = (int) (Math.random() * 10);
         Scanner klavetura = new Scanner(in);
         int skaicius = klavetura.nextInt();
         if (skaicius == r) {
@@ -62,12 +62,21 @@ public class Main {
           System.out.println("------------");
           System.out.println("++++++++++++");
           break;
-        } else {
+        }
+        //cia klaida
+        else if (kiekKartu < 0 || r > 10) {
+          System.out.println(tavoVardas.toUpperCase() + " ZIUREK KA VEDI.");
+          System.out.println("Gerai bandyk dar karta");
+          return;
+        //iki cia turbut
+      }
+        else {
           System.out.println("Bandykite dar karta :(");
           System.out.println(r);
         }
+
         kiekKartu--;
+      }
       }
     }
   }
-}
