@@ -1,11 +1,11 @@
 package com.company;
-import jdk.nashorn.api.tree.ContinueTree;
+//import jdk.nashorn.api.tree.ContinueTree;
 
-import java.sql.SQLOutput;
+//import java.sql.SQLOutput;
 import java.util.Scanner;
 
 import static java.lang.System.in;
-import static java.lang.System.setOut;
+//import static java.lang.System.setOut;
 
 public class Main {
 
